@@ -15,3 +15,6 @@ print(((2025/4) - 24)/2)
 
 print(2**2)
 # this will print 4
+
+print(((1+2) * 3)/4)
+# this will print 2.25
