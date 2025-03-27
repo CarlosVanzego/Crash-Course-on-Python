@@ -19,3 +19,14 @@ area = (base*height)/2
 
 print("The area of the triangle is: " + str(area))
 
+
+
+# In this scenario, I have a directory with 5 files in it. Each file has a different size: 2048, 4357, 97658, 125, and 8. I then calculate the average file size by having Python add all the values for me, and then set the files variable to the number of files. Finally, I print a message saying "The average size is: " followed by the resulting number.
+total = 2048 + 4357 + 97658 + 125 + 8
+files = 5
+average = total/files
+
+print("The average size is: " + str(average))
+
+
+
