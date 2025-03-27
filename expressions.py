@@ -9,3 +9,13 @@ print("a" + "b" + "c")
 
 print("This " + "is " + "pretty " + "cool😎")
 
+
+
+# In the example below, I'm calculating the area of a triangle, and when printint it, I'm adding it to a string.
+# To do this, I'm calling the str() function to convert a number into a string.
+base = 6
+height = 3
+area = (base*height)/2
+
+print("The area of the triangle is: " + str(area))
+
